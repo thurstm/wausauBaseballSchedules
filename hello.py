@@ -1,4 +1,6 @@
 # sample py
+import Scrapy
+
 def main ():
     print ("hello wausau")
 

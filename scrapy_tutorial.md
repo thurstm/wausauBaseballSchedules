@@ -17,7 +17,7 @@ import scrapy
 class MySpider(scrapy.Spider):
     name = "my_spider"
     start_urls = [
-        "https://www.your_target_url.com/",
+        "https://www.wausauwesthoops.com/page/show/8246384-varsity",
     ]
 
     def parse(self, response):
